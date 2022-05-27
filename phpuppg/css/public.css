@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+a:link, a:visited, a:active{
+    text-decoration: none;
+    color: #2b2b2b;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 70px;
+    text-decoration: underline;
+}
+
+td{
+    padding:40px;
+}
+

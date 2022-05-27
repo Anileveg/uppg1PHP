@@ -1,0 +1,96 @@
+.back-body{
+    background-color: beige;
+}
+
+#post-form{
+    margin-left: 30%;
+}
+
+.buttons{
+    display: flex;
+}
+.adminLink, .adminLink:visited, .adminLink:active{
+    text-decoration: none;
+    color: #2b2b2b;
+    padding-left: 10px;
+}
+
+#blog-posts{
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    border: 1.1px solid darkgray;
+    padding: 25px;
+}
+
+#blog-posts tr, td, th{
+    border: 1.1px solid darkgray;
+    padding: 30px;
+}
+
+#delete-btn:hover{
+    color: rgb(216, 38, 38);
+}
+
+#delete-btn{
+    margin-right: 10px;
+}
+#update-btn:hover{
+    color: orange;
+}
+
+
+h2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 30%;
+}
+
+
+ .title-box{
+     justify-content: center;
+     width: 55%;
+     height: 25px;
+     margin-bottom: 10px;
+     border: 1.1px solid darkgray;
+     border-radius: 5px;
+} 
+
+#content{
+    justify-content: center;
+    width: 55%;
+    height: 250px;
+    border: 1.1px solid darkgray;
+    
+    border-radius: 5px;
+}
+
+.author-box{
+    justify-content: center;
+    width: 55%;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: 1.1px solid darkgray;
+    
+    border-radius: 5px; 
+} 
+
+.submit-btn{
+    margin-bottom: 60px;
+}
+
+
+.submit-btn:hover{
+    color: green;
+}  
+
+.messages{
+    width: 500px;
+    margin-left: 30%;
+}
+
+
+
+
+
